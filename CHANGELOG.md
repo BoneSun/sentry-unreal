@@ -7,6 +7,9 @@
 - Bump Java SDK (Android) from v8.17.0 to v8.18.0 ([#1031](https://github.com/getsentry/sentry-unreal/pull/1031))
   - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#8180)
   - [diff](https://github.com/getsentry/sentry-java/compare/8.17.0...8.18.0)
+- Bump Android Gradle Plugin from v5.8.0 to v5.9.0 ([#7](https://github.com/BoneSun/sentry-unreal/pull/7))
+  - [changelog](https://github.com/getsentry/sentry-android-gradle-plugin/blob/main/CHANGELOG.md#590)
+  - [diff](https://github.com/getsentry/sentry-android-gradle-plugin/compare/5.8.0...5.9.0)
 
 ## 1.0.0-beta.7
 
